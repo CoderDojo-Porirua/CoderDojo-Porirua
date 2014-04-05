@@ -41,6 +41,6 @@ void loop() {
   digitalWrite(ledGreen, LOW);
   digitalWrite(ledAmber, HIGH);
   
-  // Amber stays on for 3 second
+  // Amber stays on for 3 seconds
   delay(3000);
 }
